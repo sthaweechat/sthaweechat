@@ -14,11 +14,8 @@ Here are some ideas to get you started:
 -->
 <h1>Welcome to my page!</h1>
 
----
-
 <h1 align="center">✨Hi 👋, I'm EM✨</h1>
 
----
 
 <h2 align="center">Languages and Tools:</h2>
 <br>
@@ -57,7 +54,6 @@ Here are some ideas to get you started:
 
 </p>
 
----
 
 <h2 align="center">STATUS</h2>
 
@@ -70,7 +66,7 @@ Here are some ideas to get you started:
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
----
+
 
 <h2 align="center">Connect with me:</h2>
 <p align="left">
