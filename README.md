@@ -58,9 +58,9 @@ Here are some ideas to get you started:
 <h2 align="center">STATUS</h2>
 
 <p>
-<p><img align="left" width="54%" src="https://github-readme-stats.vercel.app/api?username=sthaweechat&count_private=true&show_icons=true&theme=dracula" alt="sthaweechat" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sthaweechat&count_private=true&show_icons=true&theme=dracula" alt="sthaweechat" /></p>
 
-<p><img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sthaweechat&show_icons=true&locale=en&layout=compact&theme=dracula" alt="sthaweechat" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sthaweechat&show_icons=true&locale=en&layout=compact&theme=dracula" alt="sthaweechat" /></p>
 </p>
 
 
