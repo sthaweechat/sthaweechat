@@ -64,10 +64,6 @@ Here are some ideas to get you started:
 </p>
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 <h2 align="center">Connect with me:</h2>
 <p align="left">
 <a href="https://github.com/sthaweechat" target="blank">
