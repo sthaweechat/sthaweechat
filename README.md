@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <p>
 <p><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=sthaweechat&count_private=true&show_icons=true&theme=dracula" alt="sthaweechat" /></p>
 
-<p><img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sthaweechat&show_icons=true&locale=en&layout=compact&theme=dracula" alt="sthaweechat" /></p>
+<p><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sthaweechat&show_icons=true&locale=en&layout=compact&theme=dracula" alt="sthaweechat" /></p>
 </p>
 
 
