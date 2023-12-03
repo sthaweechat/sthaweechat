@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/EMpZer0" target="blank">
 <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="sthaweechat" /></a>
 <a href="https://fb.com/sthaweechat" target="blank">
-<img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="sthaweechat" /></a>
+<img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="mthaweechat" /></a>
 <a href="https://instagram.com/sthaweechat" target="blank">
 <img align="center" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="sthaweechat"/></a>
 <a href="https://www.youtube.com/sthaweechat" target="blank">
